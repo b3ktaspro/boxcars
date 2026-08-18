@@ -1,29 +1,29 @@
 # BOXCARS
 
 ### Description
-Landing page automobile développée en HTML et CSS à partir d’une maquette Figma. Ce projet a été réalisé dans le cadre de mon initiation au développement web et m’a permis d’approfondir les fondamentaux du CSS, notamment Flexbox, la mise en page, le responsive design et la structuration d’une interface à partir d’une maquette.
+Automotive landing page developed in HTML and CSS from a Figma design. This project was created as part of my introduction to web development and allowed me to deepen my understanding of CSS fundamentals, particularly Flexbox, layout, responsive design, and structuring an interface from a design mockup.
 
-**[Visiter le site](https://box-cars.netlify.app/)**
+**[Visit the website](https://box-cars.netlify.app/)**
 
-### Aperçu web
+### Web Preview
 
 <p align="center">
   <img src="./.github/assets/boxcarsweb.png" width="49%">
   <img src="./.github/assets/boxcarsweb2.png" width="48%">
 </p>
 
-### Fonctionnalités
+### Features
 
-- Présentation des véhicules
-- Navigation entre les différentes sections
-- Interface responsive
-- Adaptation du design pour mobile et desktop
+- Vehicle presentation
+- Navigation between different sections
+- Responsive interface
+- Design adapted for mobile and desktop
 
 ### Technologies
 
 `HTML` · `CSS`
 
-### Aperçu mobile
+### Mobile Preview
 
 <p align="center">
   <img src="./.github/assets/boxcarsmobile.png" width="30%">
