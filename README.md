@@ -8,8 +8,8 @@ Automotive landing page developed in HTML and CSS from a Figma design. This proj
 ### Web Preview
 
 <p align="center">
-  <img src="./.github/assets/boxcarsweb.png" width="49%">
-  <img src="./.github/assets/boxcarsweb2.png" width="48%">
+  <img src="./.github/assets/readmeweb.png" width="49%">
+  <img src="./.github/assets/readmeweb2.png" width="48%">
 </p>
 
 ### Features
@@ -26,7 +26,7 @@ Automotive landing page developed in HTML and CSS from a Figma design. This proj
 ### Mobile Preview
 
 <p align="center">
-  <img src="./.github/assets/boxcarsmobile.png" width="30%">
-  <img src="./.github/assets/boxcarsmobile2.png" width="30%">
+  <img src="./.github/assets/readmemobile.png" width="30%">
+  <img src="./.github/assets/readmemobile2.png" width="30%">
   
 </p>
